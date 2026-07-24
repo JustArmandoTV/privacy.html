@@ -15,7 +15,7 @@
 
 <p>
 MANDSU<br>
-Entwickler: Armando Esemplare
+Entwickler: JustArmandoTV
 </p>
 
 <h2>2. Welche Daten wir speichern</h2>
